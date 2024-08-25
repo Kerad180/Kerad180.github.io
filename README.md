@@ -5,38 +5,22 @@ Why I like programming? Programmin is like gaming. Just like in games I have to 
 Programmin is easy. There is only 1 or 0, true or false, nothing between.
 
 ## Tools
-
-Html
-
-CSS
-
-JavaScript
-
-jQuery
-
-Java
-
-PHP
-
-AJAX
-
-React
-
-Angular
-
-SQL
-
-XML
-
+- Html
+- CSS
+- JavaScript
+- jQuery
+- Java
+- PHP
+- AJAX
+- React
+- Angular
+- SQL
+- XML
+  
 ## Projects
-
-Mainbook - 
+- Mainbook - 
 
 ## Hobby
-
-Gaming
-
-Books
-
-Meditacion
-
+- Gaming
+- Books
+- Meditacion
