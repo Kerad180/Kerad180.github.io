@@ -3,24 +3,6 @@
 Why I like programming? Programmin is like gaming. Just like in games I have to look for a way to defeat a boss, in programming I have to look for a way to get past an obstacle. Both equally addictive.
 
 Programmin is easy. There is only 1 or 0, true or false, nothing between.
-
-## Tools
-- Html
-- CSS
-- JavaScript
-- jQuery
-- Java
-- PHP
-- AJAX
-- React
-- Angular
-- SQL
-- XML
   
-## Projects
-- Mainbook - 
-
-## Hobby
-- Gaming
-- Books
-- Meditacion
+## My Projects
+- Mainbook - It is a social networking site similar to Facebook. You can share posts and write to other users. Webiste wrote using jQuery, PHP and SQL database. The "password hash" function was used to encode the password with the "PASSWORD_DEFAULT" value set.
