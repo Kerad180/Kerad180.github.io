@@ -5,4 +5,4 @@ Why I like programming? Programmin is like gaming. Just like in games I have to 
 Programmin is easy. There is only 1 or 0, true or false, nothing between.
   
 ## My Projects
-- Mainbook - It is a social networking site similar to Facebook. You can share posts and write to other users. Webiste wrote using jQuery, PHP and SQL database. The "password hash" function was used to encode the password with the "PASSWORD_DEFAULT" value set.
+- Mainbook - It is a social networking site similar to Facebook. You can share posts and write to other users.
