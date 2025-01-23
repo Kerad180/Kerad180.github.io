@@ -1,6 +1,6 @@
 ## About me
 
-Why I like programming? Programmin is like gaming. In programming and games I have to find a way to deal with the obstacles. Both are also addictive
+Why I like programming? Programmin is like gaming. In programming and games I have to find a way to deal with the obstacles. Both are also addictive.
 
 Programmin is easy. There is only 1 or 0, true or false, nothing between.
   
