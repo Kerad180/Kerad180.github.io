@@ -5,8 +5,8 @@ Why I like programming? Programmin is like gaming. In programming and games I ha
 Programmin is easy. There is only 1 or 0, true or false, nothing between.
   
 ## My Projects
-- Mainbook - It is a social networking site similar to Facebook. You can share posts and write to other users. Created using jQuery, PHP and SQL database.
+- Mainbook - It is a social networking site similar to Facebook. You can share posts and write to other users. Created using jQuery, PHP and SQL database. Available on GitHub.
   
-- Newbook - It is a social networking site similar to the above one, only this time using React. this is just a demo page, so it doesn't use a database. Data is saved in the states. You can visit at [https://comforting-semifreddo-b6319f.netlify.app](https://comforting-semifreddo-b6319f.netlify.app/).
+- Newbook - It is a social networking site similar to the above one, only this time using React. this is just a demo page, so it doesn't use a database. Data is saved in the states. You can visit at [https://comforting-semifreddo-b6319f.netlify.app](https://comforting-semifreddo-b6319f.netlify.app/). Is also available on GitHub.
   
-- Simplegames - It is gaming platform. You can bet on horse races or escape from asteroids. You can visit at [https://comforting-semifreddo-b6319f.netlify.app](https://effervescent-zuccutto-6a928d.netlify.app/).
+- Simplegames - It is gaming platform. You can bet on horse races or escape from asteroids. You can visit at [https://comforting-semifreddo-b6319f.netlify.app](https://effervescent-zuccutto-6a928d.netlify.app/). Is also available on GitHub.
